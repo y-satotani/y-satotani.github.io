@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$brand-color: #7851A9;
+
+@import "minima";
+
+h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.figure {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
