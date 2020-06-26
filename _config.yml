@@ -15,16 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 author: 里谷 佳紀
 title: 研究開発ポートフォリオ
-institute:
-  inst1:
-    name: 岡山大学 大学院自然科学研究科
-    url: https://www.gnst.okayama-u.ac.jp/major/gnstmc_densi/
-  inst2:
-    name: 情報数理工学研究室
-    url: http://www.momo.cs.okayama-u.ac.jp/~takahashi/lab.ja.html
-  inst3:
-    name: 岡山大学 情報統括センター
-    url: https://www.citm.okayama-u.ac.jp/
 email: ysatotani@s.okayama-u.ac.jp
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
